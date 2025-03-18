@@ -7,4 +7,4 @@
 secret = 4
 for i in range(1,11):
     if i == secret:
-        print("found")
+        print(secret)
