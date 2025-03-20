@@ -1,4 +1,4 @@
-##Word problem
+###Word problem
 #Alyssa, Ben, and Cindy are selling tickets to a fundraiser
 # Ben sells 2 fewer than Alyssa
 # Cindy sells twice as many as Alyssa
